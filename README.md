@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [analyticsfx](https://analytics-fx.com)
 
-- 📫 How to reach me **gavrilov@analytics-fx.com**
+- 📫 How to reach me **d.gavrilov@devexa.de**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
