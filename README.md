@@ -1,3 +1,9 @@
+<style>
+  * {
+    text-decoration: none;
+  }
+</style>
+
 <h1 align="center">Hi 👋, I'm Daniel Gavrilov</h1>
 <h3 align="center">A self-taught full-stack developer with Ukrainian heritage, based in Germany.</h3>
 
